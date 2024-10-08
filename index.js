@@ -1,10 +1,9 @@
-// TODO: Include packages needed for this application
+
 import fs from 'fs';
 import inquirer from 'inquirer';
 import generateMarkdown from './generateMarkdown.js';
 import figlet from 'figlet';
-// import { error } from 'console';
-// TODO: Create an array of questions for user input
+
 export const questions = [
     {
         message: 'Please enter the title of your README?',
