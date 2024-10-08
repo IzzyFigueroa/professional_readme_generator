@@ -1,6 +1,6 @@
 
-  # help
-  # ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+  # Title of my Markdown file
+  # ![Apache 2.0 License](https://img.shields.io/badge/License-Apache%202.0-green.svg)
 
   ## Table of Contents
   - [Questions](#questions)
@@ -12,24 +12,24 @@
   - [License](#license)
 
   ## Questions
- My Github username is https://github.com/help
+ My Github username is https://github.com/izzyfigueroa
   
- Please contact me at help
+ Please contact me at izzyfigueroa6@gmail.com
 
   ## Description
- help
+ This is a markdown generator
 
   ## Installation
- help
+ n/a
   ## Usage
- help
+ n/a
 
   ## Contribution Guidelines
- hep
+ n/a
   ## Testing
- help
+ none
 
   ## License
-This project is licensed under the terms of the MIT. For more information, please visit https://opensource.org/licenses/MIT.
+This project is licensed under the terms of the Apache 2.0. For more information, please visit https://opensource.org/licenses/Apache-2.0.
 
 
